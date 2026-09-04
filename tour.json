@@ -2350,6 +2350,60 @@
                 "at": "2026-09-03T13:00:03.795Z"
               },
               "hoverGroup": "library-gym"
+            },
+            {
+              "id": "hs-5ae631f0",
+              "name": "To the field",
+              "geometry": {
+                "kind": "point",
+                "yaw": 6.280407893527167,
+                "pitch": 0
+              },
+              "form": "circle",
+              "style": {
+                "builtinIcon": "arrow",
+                "iconColor": "#ffffff",
+                "background": "rgba(0, 42, 58, 0.82)",
+                "radius": 999,
+                "text": "",
+                "textColor": "#ffffff",
+                "fontSize": 14,
+                "size": 84,
+                "padding": 10,
+                "effect": "none",
+                "effectColor": "#F9AA3D",
+                "effectOpacity": 0.45,
+                "effectSpeed": 1.4,
+                "effectSize": 58,
+                "effectStroke": 2,
+                "fill": "#F9AA3D",
+                "fillOpacity": 0.26,
+                "stroke": "#F9AA3D",
+                "strokeWidth": 2,
+                "borderColor": "#ffffff",
+                "borderWidth": 2
+              },
+              "componentId": "comp-aec2a3da",
+              "variantId": "var-15cbd85a",
+              "on": [
+                {
+                  "event": "click",
+                  "actions": [
+                    {
+                      "type": "goto",
+                      "targetSceneId": "scene-b7c4932a",
+                      "transition": {
+                        "kind": "fade",
+                        "durationMs": 700
+                      }
+                    }
+                  ]
+                }
+              ],
+              "provenance": {
+                "source": "agent",
+                "at": "2026-09-04T00:42:44.115Z"
+              }
             }
           ]
         }
