@@ -96,7 +96,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/dji-20260818112026-0081-d-d25ba3ea",
+        "dir": "tiles/dji-20260818112026-0081-d-abb4e834",
         "width": 14976,
         "cols": 16,
         "rows": 8,
@@ -746,7 +746,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/dji-20260818112138-0082-d-16aecb02",
+        "dir": "tiles/dji-20260818112138-0082-d-a260aa18",
         "width": 14976,
         "cols": 16,
         "rows": 8,
@@ -1457,7 +1457,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/dji-20260818112621-0084-d-0ec62ea6",
+        "dir": "tiles/dji-20260818112621-0084-d-44d17aca",
         "width": 14976,
         "cols": 16,
         "rows": 8,
@@ -1593,7 +1593,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/dji-20260818112830-0085-d-6e0ed37b",
+        "dir": "tiles/dji-20260818112830-0085-d-2335f106",
         "width": 14976,
         "cols": 16,
         "rows": 8,
@@ -2361,7 +2361,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/dji-20260818113039-0087-d-90f37fb8",
+        "dir": "tiles/dji-20260818113039-0087-d-a16319fa",
         "width": 14976,
         "cols": 16,
         "rows": 8,
